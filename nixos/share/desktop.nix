@@ -77,6 +77,7 @@
     dracula-theme
     unzip
     xdg-utils
+    libreoffice
     rofi-bluetooth
     thunderbird
     swww
